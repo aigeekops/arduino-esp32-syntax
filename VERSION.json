@@ -1,0 +1,33 @@
+{
+  "captured_at": "2026-10-24",
+  "verified_at": "2026-10-25",
+  "repository": "https://github.com/aigeekops/learn-esp32",
+  "arduino_esp32": "3.3.12",
+  "fqbn": "esp32:esp32:esp32",
+  "course_snapshot_count": 16,
+  "course_count_at_check": 25,
+  "robot_course_ids": [
+    "distance",
+    "motor",
+    "encoder",
+    "speed",
+    "differential",
+    "uart",
+    "ble",
+    "espnow",
+    "robot"
+  ],
+  "source_sha256": {
+    "src/lessons.ts": "01146b106e8d5729a136efde25fa1037115f4c91e2649c8193da9fa7adabf60d",
+    "src/firmware.ts": "595e314a58bf008c16c975003d7d4b7ef683c27ac7a2e150c14dad18d4dde971"
+  },
+  "snapshot_source": "local tutorial source snapshot; no matching Git commit recorded",
+  "repository_checked_commit": "d6d6074",
+  "repository_source_sha256": {
+    "src/lessons.ts": "b707de65f8e6ac1d86634732d9cb5cc1d4e4b78280b9443364ab702ab91ac882",
+    "src/firmware.ts": "9d0704e64c181837cf6d6ce4ccf632b00f64f6bcee66e5c39f8b49b559f8d94a",
+    "src/robot-lessons.ts": "5f12bcdaf8e116b7408176b708d6ae7d4e5be260402516729b5ca4b8791b1a32",
+    "src/robot-firmware.ts": "5c14e7b6fa2d8ba298e74c6daf0fa9432b4ee02e7a0113f2a638ab8c969f651a"
+  },
+  "note": "source_sha256 identifies the local source used for the 16 tutorials mirrored in this directory. The repository has since grown to 25 courses: the original set was reworked (light / piano / plant replaced serial / sound / alarm, and the order changed) and 9 robotics courses were added. The examples here are independent learning material keyed to this article, not a live mirror of the site; match courses by topic, not by lesson number."
+}
